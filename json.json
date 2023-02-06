@@ -1,0 +1,7 @@
+{
+	"Substack.com": {
+		"allow_cookies": 1,
+		"domain": "substack.com",
+		"useragent": "googlebot"
+	}
+}
