@@ -155,7 +155,7 @@
     "pirates": "^4.0.5",
     "react-is": "^18.2.0",
     "resolve-from": "^5.0.0",
-    "semver": "^6.3.0",
+    "semver": "^7.5.2",
     "prompts": "^2.4.2",
     "resolve": "^1.22.1",
     "shebang-regex": "^3.0.0",
